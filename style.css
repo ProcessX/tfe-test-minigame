@@ -1,0 +1,25 @@
+body{
+    padding: 0;
+    margin: 0;
+    max-height: 100vh;
+    max-width: 100vw;
+}
+
+@font-face {
+    font-family: 'Press Start 2P';
+    src: url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+}
+
+
+.harvest__container{
+    height: 99vh;
+    width: 100vw;
+    max-height: 100vh;
+    max-width: 100vw;
+    display: inline-block;
+}
+
+.harvest__view{
+    max-height: 100%;
+    max-width: 100%;
+}
